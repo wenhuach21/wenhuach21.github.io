@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Cheng Wenhua(程文华)"
+title                    : "Wenhua Cheng 程文华"
 description              : "Software Engineer"
 repository               : "https://wenhuach21.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Cheng Wenhua(程文华)"
+  name             : "Wenhua Cheng 程文华"
   avatar           : "images/wch.png"
   bio              :
   location         : "JiangXi China"

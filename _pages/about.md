@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wenhua Cheng is a Software Engineer at **Intel**, with a strong background in large language model (LLM) quantization, model compression, and computer vision. Previously, he worked at Alibaba Cloud as a software engineer and at Intel Labs as a researcher. Wenhua holds a Master’s degree from Zhejiang University and a Bachelor’s degree from Nanjing University of Science and Technology.
+Wenhua Cheng is a Software Engineer at Intel, with a strong background in large language model (LLM) quantization, model compression, and computer vision. Previously, he worked at Alibaba Cloud as a software engineer and at Intel Labs as a researcher. Wenhua holds a Master’s degree from Zhejiang University and a Bachelor’s degree from Nanjing University of Science and Technology.
 
 Wenhua's expertise spans two main domains:
 
@@ -43,14 +43,23 @@ Wenhua has filed **21 patents**, 11 of which have been granted. Over the past fo
 <div class='paper-box-text' markdown="1">
 
 
-SignRoundV2: Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs [arxiv](https://arxiv.org/abs/2512.04746) 
+[2025] SignRoundV2: Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs [arxiv](https://arxiv.org/abs/2512.04746) <a href="https://github.com/intel/auto-round" target="_blank"><img src="https://img.shields.io/github/stars/intel/auto-round?style=social" alt="GitHub Stars"></a>
 
-<a href="https://github.com/intel/auto-round" target="_blank">
-code
-</a>
+**Wenhua Cheng**, Weiwei Zhang, Heng Guo, Haihao Shen
 
 
-**Wenhua Cheng**, Weiwei Zhang, Heng Guo, Shen Haihao
+</div>
+
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/arv1.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+
+[2023] Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs [EMNLP](https://aclanthology.org/2024.findings-emnlp.662/) <a href="https://github.com/intel/auto-round" target="_blank"><img src="https://img.shields.io/github/stars/intel/auto-round?style=social" alt="GitHub Stars"></a>
+
+**Wenhua Cheng**, Weiwei Zhang, Haihao Shen, Yiyang Cai, Xin He, Lv Kaokao, Yi Liu
 
 
 </div>
@@ -58,6 +67,19 @@ code
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/teq.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+
+[2023] TEQ: Trainable Equivalent Transformation for Quantization of LLMs [arxiv](https://arxiv.org/abs/2310.10944) <a href="https://github.com/intel/auto-round" target="_blank"><img src="https://img.shields.io/github/stars/intel/neural-compressor?style=social" alt="GitHub Stars"></a>
+
+**Wenhua Cheng**, Yiyang Cai, Kaokao Lv, Haihao Shen
+
+
+</div>
+
+</div>
 
 # 🎖 Honors and Awards
 
