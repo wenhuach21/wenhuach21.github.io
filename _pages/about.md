@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wenhua Cheng is a Software Engineer at **Intel**, with a strong background in large language model (LLM) quantization, model compression, and computer vision. Previously, he worked at **Alibaba Cloud** as a software engineer and at **Intel Labs** as a researcher. Wenhua holds a Master’s degree from **Zhejiang University** and a Bachelor’s degree from **Nanjing University of Science and Technology**.
+Wenhua Cheng is a Software Engineer at **Intel**, with a strong background in large language model (LLM) quantization, model compression, and computer vision. Previously, he worked at Alibaba Cloud as a software engineer and at Intel Labs as a researcher. Wenhua holds a Master’s degree from Zhejiang University and a Bachelor’s degree from Nanjing University of Science and Technology.
 
 Wenhua's expertise spans two main domains:
 
@@ -34,45 +34,44 @@ Wenhua has filed **21 patents**, 11 of which have been granted. Over the past fo
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
-[//]: # ()
-[//]: # (# 📝 Publications )
 
-[//]: # ()
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
+# 📝 Publications 
 
-[//]: # (<div class='paper-box-text' markdown="1">)
 
-[//]: # ()
-[//]: # ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/arv2.png' alt="sym" width="100%"></div></div>
 
-[//]: # ()
-[//]: # (**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun)
+<div class='paper-box-text' markdown="1">
 
-[//]: # ()
-[//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
 
-[//]: # (- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+SignRoundV2: Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs [arxiv](https://arxiv.org/abs/2512.04746) 
 
-[//]: # (</div>)
+<a href="https://github.com/intel/auto-round" target="_blank">
+code
+</a>
 
-[//]: # (</div>)
 
-[//]: # ()
-[//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
+**Wenhua Cheng**, Weiwei Zhang, Heng Guo, Shen Haihao
 
-[//]: # ()
-[//]: # (# 🎖 Honors and Awards)
 
-[//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+</div>
 
-[//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+</div>
 
-[//]: # ()
-[//]: # (# 📖 Educations)
 
-[//]: # (- *2019.06 - 2022.04 &#40;now&#41;*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
-[//]: # (- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+# 🎖 Honors and Awards
+
+- *2020* Ranked 1st in DawnBench competition (Training Time track)
+- *2020* Ranked 1st in DawnBench competition (Training Cost track)
+- *2017* Ranked 4th in DawnBench competition (Scene text detection track)
+- *2017* Ranked 6th in DawnBench competition (COCO text detection track)
+
+
+# 📖 Educations
+
+- 2011.09 – 2014.06, Zhejiang University – Control Science and Engineering
+
+- 2005.09 – 2009.06, Nanjing University of Science and Technology – Automation
 
 [//]: # ()
 [//]: # (# 💬 Invited Talks)
