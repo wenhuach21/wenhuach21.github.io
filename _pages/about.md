@@ -26,7 +26,7 @@ Wenhua's expertise spans two main domains:
 2. **Computer Vision**:  As a co-first author, he won **two championships** in the DawnBench competition, outperforming teams from Huawei, Google, and others. As the first author, he also ranked **4th and 6th** in two tracks of the **2017 ICDAR Scene Text Detection Competition**.
 
 Wenhua has filed **21 patents**, 11 of which have been granted. Over the past four years, he has contributed to **300+ merged PRs**.
-**He enjoys remote work. If you have such an opportunity, feel free to drop an email.**
+**Open to fully remote opportunities that align with my background, please reach out via email.**
 
 [//]: # (# 🔥 News)
 
