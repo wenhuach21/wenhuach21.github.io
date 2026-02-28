@@ -23,10 +23,11 @@ Wenhua's expertise spans two main domains:
 
 1. **LLM Compression**: As the first author, he has contributed to methods such as **SignRound** and **SignRoundV2**, signed gradient descent-based rounding optimizations for LLM quantization, and **TEQ (Trainable Equivalent Transformation)**.
 
-2. **Computer Vision**:  As a co-first author, he won **two championships** in the DawnBench competition, outperforming teams from Huawei, Google, and others. As the first author, he also ranked **4th and 6th** in two tracks of the **2017 ICDAR Scene Text Detection Competition**.
+2. **Computer Vision**:  As a co-first author, he won **two championships in the DawnBench competition**, outperforming teams from Huawei, Google, and others. As the first author, he also ranked **4th and 6th** in two tracks of the **2017 ICDAR Scene Text Detection Competition**.
 
 Wenhua has filed **21 patents**, 11 of which have been granted. Over the past four years, he has contributed to **300+ merged PRs**.
-**Open to fully remote opportunities that align with my background, please reach out via email.**
+
+**Wenhua is open to fully remote positions that align with his background. Reaching out via email or any other ways  would be greatly appreciated.**
 
 [//]: # (# 🔥 News)
 
