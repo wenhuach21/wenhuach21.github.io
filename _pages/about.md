@@ -73,7 +73,7 @@ Wenhua has filed **21 patents**, 11 of which have been granted. Over the past fo
 <div class='paper-box-text' markdown="1">
 
 
-[2023] TEQ: Trainable Equivalent Transformation for Quantization of LLMs [arxiv](https://arxiv.org/abs/2310.10944) <a href="https://github.com/intel/auto-round" target="_blank"><img src="https://img.shields.io/github/stars/intel/neural-compressor?style=social" alt="GitHub Stars"></a>
+[2023] TEQ: Trainable Equivalent Transformation for Quantization of LLMs [arxiv](https://arxiv.org/abs/2310.10944) <a href="https://github.com/intel/neural-compressor" target="_blank"><img src="https://img.shields.io/github/stars/intel/neural-compressor?style=social" alt="GitHub Stars"></a>
 
 **Wenhua Cheng**, Yiyang Cai, Kaokao Lv, Haihao Shen
 
