@@ -27,7 +27,6 @@ Wenhua's expertise spans two main domains:
 
 Wenhua has filed **21 patents**, 11 of which have been granted. Over the past four years, he has contributed to **300+ merged PRs**.
 
-**Wenhua is open to fully remote positions that align with his background. Reaching out via email or any other ways  would be greatly appreciated.**
 
 [//]: # (# 🔥 News)
 
